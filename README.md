@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Sebastian Marquez ✨. </h2>
 <p align="center">
-  <a href="https://sebascmb.github.io/Link-Bio/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/109773982/204370508-70aff4dd-5053-4df0-a1d9-14c2a1a6308b.png" alt="my banner"></a>
+  <a href="https://sebascmb.github.io/Link-Bio/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/109773982/204373438-44524b9a-6b3d-4f05-a934-de723bf60f00.png" alt="my banner"></a>
 </p>
 <h2 align="center"> I'm a Computer Science Student 💻! </h2>
 
