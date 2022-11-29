@@ -7,7 +7,7 @@
 > "I'm here to put on a show".
 
 I'm in love with communication and technology. 
-  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people.
+  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people..
 
   ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
