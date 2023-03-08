@@ -17,10 +17,3 @@ I'm in love with communication and technology.
         <a href="https://www.linkedin.com/in/scmbejarano/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     <a href="https://www.instagram.com/sebastiancmarquez_/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
     <a href="https://twitter.com/smarquez_b" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
-
-
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBASCMB&show_icons=true&theme=tokyonight)
-
-## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEBASCMB&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
