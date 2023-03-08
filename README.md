@@ -20,4 +20,4 @@ I'm in love with communication and technology.
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBASCMB&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEBASCMB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEBASCMB&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
