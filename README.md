@@ -44,9 +44,6 @@
 <br>
 </div>
 
-![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
-
 <a href="https://info.flagcounter.com/1A6A"><img src="https://s11.flagcounter.com/count2/1A6A/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_9/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
