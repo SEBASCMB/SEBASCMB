@@ -2,15 +2,7 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEBASCMB&bg_color=0d1117&color=ffffff&line=B3EE46&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEBASCMB&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEBASCMB&layout=compact&hide_border=true&title_color=B3EE46&text_color=B3EE46&bg_color=0d1117" />
-</div> 
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=SEBASCMB&theme=merko&hide_border=true"
-</p>
 
 <div align="center">
 <div align="center">
