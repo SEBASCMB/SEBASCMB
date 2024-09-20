@@ -30,14 +30,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
 <p/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count  </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
-<br>
-</div>
-
-<a href="https://info.flagcounter.com/1A6A"><img src="https://s11.flagcounter.com/count2/1A6A/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_9/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 💰 You can help me by Donating
