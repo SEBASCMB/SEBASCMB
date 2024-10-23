@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B3EE46&size=35&center=true&vCenter=true&width=1000&lines=Hello;I'm+from+Colombia;I'm+25+years+old;Welcome!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B3EE46&size=35&center=true&vCenter=true&width=1000&lines=Hello;I'm+from+Colombia;I'm+26+years+old;Welcome!)
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEBASCMB&bg_color=0d1117&color=ffffff&line=B3EE46&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
