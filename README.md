@@ -1,35 +1,42 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B3EE46&size=35&center=true&vCenter=true&width=1000&lines=Hello;I'm+from+Colombia;I'm+26+years+old;Welcome!)
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Sebastian Marquez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEBASCMB&bg_color=0d1117&color=ffffff&line=B3EE46&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🎓 I'm a Software Engineer 
+- 💻 I’m currently working at [Nimutech](https://www.nimutech.com/) 
+- ⭐ Goal for 2024: Learn more technologies and become a freelancer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love sports, gym, programming, learning and reading books.
+
+<hr>
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Neovim-%2300afaf.svg?style=for-the-badge&logo=neovim&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 
+<!-- CONNECTION -->
+<hr>     
 
-<div align="center">
-<div align="center">
-<a href="https://www.instagram.com/sebastiancm_b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/scmbejarano/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:sebmcoding@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-</div>
-</div>
+## 🤝 Connect with me
 
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="JAVA">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" title="Flutter">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="48" title="Swift">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="AndroidStudio">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
-<p/>
+	<a href="mailto:sebastiancmarquez1998@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/scmbejarano/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/sebastiancm_b/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<hr>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sebastiancw) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SebastianCMBCOL)
+<div align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31shymrcisb4sthhng2gujx3zbji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="500">
+    </a>
+</div>
+
+
+  
+ 
+
+ 
+
+
+
