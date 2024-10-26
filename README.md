@@ -12,14 +12,6 @@
 
 <hr>
 
-<!-- Información breve sobre mí -->
-- 🎓 I'm a Software Engineer  
-- 💻 I’m currently working at [Nimutech](https://www.nimutech.com/)  
-- ⭐ Goal for 2024: Learn more technologies and become a freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- ⚡ I love sports, gym, programming, learning, and reading books.
-
-<hr>
-
 <!-- Sección de tecnologías con una lista de iconos -->
 <h2>💻 Tech Stack:</h2>
 
