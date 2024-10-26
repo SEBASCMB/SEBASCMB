@@ -1,8 +1,16 @@
 <!-- Encabezado con un saludo personalizado y una imagen de presentación animada -->
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/scmbejarano" target="_blank" rel="noopener noreferrer">Sebastian Marquez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
-
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/scmbejarano" target="_blank" rel="noopener noreferrer">Sebastian Marquez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
 <!-- Imagen de presentación a la derecha -->
-<a href="https://github.com/SEBASCMB"><img align="right" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150"></a>
+<a href="https://github.com/SEBASCMB"><img align="right" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150"></a></h2>
+
+<!-- Información breve sobre mí -->
+- 🎓 I'm a Software Engineer 
+- 💻 I’m currently working at [Nimutech](https://www.nimutech.com/) 
+- ⭐ Goal for 2024: Learn more technologies and become a freelancer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love sports, gym, programming, learning, and reading books.
+
+<hr>
 
 <!-- Información breve sobre mí -->
 - 🎓 I'm a Software Engineer  
